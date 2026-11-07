@@ -1826,12 +1826,12 @@
     "home_name": "Los Angeles Lakers",
     "away_id": "22",
     "away_name": "Portland Trail Blazers",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 124,
+    "away_score": 118,
+    "completed": true,
     "neutral": false,
-    "state": "in",
-    "status": "STATUS_IN_PROGRESS"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909295",
@@ -1840,12 +1840,12 @@
     "home_name": "Sacramento Kings",
     "away_id": "24",
     "away_name": "San Antonio Spurs",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 109,
+    "away_score": 124,
+    "completed": true,
     "neutral": false,
-    "state": "in",
-    "status": "STATUS_IN_PROGRESS"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909938",

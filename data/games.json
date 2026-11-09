@@ -1952,12 +1952,12 @@
     "home_name": "Chicago Bulls",
     "away_id": "20",
     "away_name": "Philadelphia 76ers",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 121,
+    "away_score": 127,
+    "completed": true,
     "neutral": false,
-    "state": "in",
-    "status": "STATUS_IN_PROGRESS"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909946",
@@ -1966,12 +1966,12 @@
     "home_name": "Detroit Pistons",
     "away_id": "13",
     "away_name": "Los Angeles Lakers",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 116,
+    "away_score": 121,
+    "completed": true,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909947",
@@ -1980,12 +1980,12 @@
     "home_name": "Minnesota Timberwolves",
     "away_id": "26",
     "away_name": "Utah Jazz",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 115,
+    "away_score": 100,
+    "completed": true,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909948",
@@ -1994,12 +1994,12 @@
     "home_name": "Dallas Mavericks",
     "away_id": "17",
     "away_name": "Brooklyn Nets",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 130,
+    "away_score": 93,
+    "completed": true,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909949",
@@ -2008,12 +2008,12 @@
     "home_name": "Milwaukee Bucks",
     "away_id": "2",
     "away_name": "Boston Celtics",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 97,
+    "away_score": 117,
+    "completed": true,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909950",
@@ -2022,12 +2022,12 @@
     "home_name": "LA Clippers",
     "away_id": "3",
     "away_name": "New Orleans Pelicans",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 139,
+    "away_score": 123,
+    "completed": true,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909951",
@@ -2036,12 +2036,12 @@
     "home_name": "Sacramento Kings",
     "away_id": "14",
     "away_name": "Miami Heat",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 108,
+    "away_score": 114,
+    "completed": true,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909952",

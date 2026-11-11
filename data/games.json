@@ -2232,12 +2232,12 @@
     "home_name": "Portland Trail Blazers",
     "away_id": "25",
     "away_name": "Oklahoma City Thunder",
-    "home_score": null,
-    "away_score": null,
-    "completed": false,
+    "home_score": 123,
+    "away_score": 103,
+    "completed": true,
     "neutral": false,
-    "state": "in",
-    "status": "STATUS_IN_PROGRESS"
+    "state": "post",
+    "status": "STATUS_FINAL"
   },
   {
     "id": "401909966",

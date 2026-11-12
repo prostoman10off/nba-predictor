@@ -2250,8 +2250,8 @@
     "away_score": null,
     "completed": false,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "in",
+    "status": "STATUS_IN_PROGRESS"
   },
   {
     "id": "401909967",
@@ -2264,8 +2264,8 @@
     "away_score": null,
     "completed": false,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "in",
+    "status": "STATUS_IN_PROGRESS"
   },
   {
     "id": "401909968",
@@ -2278,8 +2278,8 @@
     "away_score": null,
     "completed": false,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "in",
+    "status": "STATUS_IN_PROGRESS"
   },
   {
     "id": "401909969",

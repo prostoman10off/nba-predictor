@@ -502,5 +502,29 @@
     "away_elo": 1468.658078759648,
     "home_probability": 0.601808311626844,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909296",
+    "saved_at": "2026-11-12T00:42:24.206326+00:00",
+    "source_sync": "2026-11-12T00:42:24.205836+00:00",
+    "starts_at": "2026-11-14T00:00:00+00:00",
+    "home_name": "Indiana Pacers",
+    "away_name": "New York Knicks",
+    "home_elo": 1455.6271223337224,
+    "away_elo": 1516.3002084967582,
+    "home_probability": 0.49903135235850066,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909297",
+    "saved_at": "2026-11-12T00:42:24.206339+00:00",
+    "source_sync": "2026-11-12T00:42:24.205836+00:00",
+    "starts_at": "2026-11-14T00:00:00+00:00",
+    "home_name": "Orlando Magic",
+    "away_name": "Milwaukee Bucks",
+    "home_elo": 1467.9256917298408,
+    "away_elo": 1422.8689136594514,
+    "home_probability": 0.6467435180383995,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

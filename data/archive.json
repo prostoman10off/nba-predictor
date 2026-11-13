@@ -670,5 +670,17 @@
     "away_elo": 1433.824908659714,
     "home_probability": 0.7361761893109767,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909985",
+    "saved_at": "2026-11-13T19:40:36.307877+00:00",
+    "source_sync": "2026-11-13T19:40:36.307220+00:00",
+    "starts_at": "2026-11-15T18:00:00+00:00",
+    "home_name": "Philadelphia 76ers",
+    "away_name": "Indiana Pacers",
+    "home_elo": 1555.6270403508197,
+    "away_elo": 1464.555172536483,
+    "home_probability": 0.704670695934956,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

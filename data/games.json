@@ -2642,8 +2642,8 @@
     "away_score": null,
     "completed": false,
     "neutral": false,
-    "state": "pre",
-    "status": "STATUS_SCHEDULED"
+    "state": "in",
+    "status": "STATUS_IN_PROGRESS"
   },
   {
     "id": "401909986",

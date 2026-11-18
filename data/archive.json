@@ -1078,5 +1078,53 @@
     "away_elo": 1492.3976432123823,
     "home_probability": 0.4596936043229894,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910019",
+    "saved_at": "2026-11-18T07:26:46.706323+00:00",
+    "source_sync": "2026-11-18T07:26:46.705904+00:00",
+    "starts_at": "2026-11-20T01:00:00+00:00",
+    "home_name": "Memphis Grizzlies",
+    "away_name": "Golden State Warriors",
+    "home_elo": 1543.7080329942694,
+    "away_elo": 1515.7438401539766,
+    "home_probability": 0.6239533961673074,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910020",
+    "saved_at": "2026-11-18T07:26:46.706328+00:00",
+    "source_sync": "2026-11-18T07:26:46.705904+00:00",
+    "starts_at": "2026-11-20T01:00:00+00:00",
+    "home_name": "Milwaukee Bucks",
+    "away_name": "Portland Trail Blazers",
+    "home_elo": 1399.9042589590765,
+    "away_elo": 1539.2563310492053,
+    "home_probability": 0.3877482546473865,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910021",
+    "saved_at": "2026-11-18T07:26:46.706332+00:00",
+    "source_sync": "2026-11-18T07:26:46.705904+00:00",
+    "starts_at": "2026-11-20T01:00:00+00:00",
+    "home_name": "Minnesota Timberwolves",
+    "away_name": "New York Knicks",
+    "home_elo": 1554.7523973576385,
+    "away_elo": 1516.5476048434484,
+    "home_probability": 0.6376807941881665,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910022",
+    "saved_at": "2026-11-18T07:26:46.706337+00:00",
+    "source_sync": "2026-11-18T07:26:46.705904+00:00",
+    "starts_at": "2026-11-20T01:00:00+00:00",
+    "home_name": "San Antonio Spurs",
+    "away_name": "LA Clippers",
+    "home_elo": 1571.774341438618,
+    "away_elo": 1451.882628565712,
+    "home_probability": 0.73798851839644,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

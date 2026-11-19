@@ -1,8 +1,8 @@
 [
   {
     "game_id": "401910019",
-    "saved_at": "2026-11-19T07:24:21.947684+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723203+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-20T01:00:00+00:00",
     "home_name": "Memphis Grizzlies",
     "away_name": "Golden State Warriors",
@@ -13,8 +13,8 @@
   },
   {
     "game_id": "401910020",
-    "saved_at": "2026-11-19T07:24:21.947709+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723228+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-20T01:00:00+00:00",
     "home_name": "Milwaukee Bucks",
     "away_name": "Portland Trail Blazers",
@@ -25,8 +25,8 @@
   },
   {
     "game_id": "401910021",
-    "saved_at": "2026-11-19T07:24:21.947718+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723237+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-20T01:00:00+00:00",
     "home_name": "Minnesota Timberwolves",
     "away_name": "New York Knicks",
@@ -37,8 +37,8 @@
   },
   {
     "game_id": "401910022",
-    "saved_at": "2026-11-19T07:24:21.947724+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723243+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-20T01:00:00+00:00",
     "home_name": "San Antonio Spurs",
     "away_name": "LA Clippers",
@@ -49,8 +49,8 @@
   },
   {
     "game_id": "401909305",
-    "saved_at": "2026-11-19T07:24:21.947730+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723249+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T00:00:00+00:00",
     "home_name": "Atlanta Hawks",
     "away_name": "Charlotte Hornets",
@@ -61,8 +61,8 @@
   },
   {
     "game_id": "401909306",
-    "saved_at": "2026-11-19T07:24:21.947738+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723255+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T00:30:00+00:00",
     "home_name": "Brooklyn Nets",
     "away_name": "Orlando Magic",
@@ -73,8 +73,8 @@
   },
   {
     "game_id": "401909307",
-    "saved_at": "2026-11-19T07:24:21.947745+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723261+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T00:30:00+00:00",
     "home_name": "Cleveland Cavaliers",
     "away_name": "Indiana Pacers",
@@ -85,8 +85,8 @@
   },
   {
     "game_id": "401909308",
-    "saved_at": "2026-11-19T07:24:21.947751+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723266+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T00:30:00+00:00",
     "home_name": "Detroit Pistons",
     "away_name": "Toronto Raptors",
@@ -97,8 +97,8 @@
   },
   {
     "game_id": "401909309",
-    "saved_at": "2026-11-19T07:24:21.947757+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723272+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T01:00:00+00:00",
     "home_name": "Chicago Bulls",
     "away_name": "Washington Wizards",
@@ -109,8 +109,8 @@
   },
   {
     "game_id": "401909310",
-    "saved_at": "2026-11-19T07:24:21.947763+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723277+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T01:00:00+00:00",
     "home_name": "Oklahoma City Thunder",
     "away_name": "New Orleans Pelicans",
@@ -121,8 +121,8 @@
   },
   {
     "game_id": "401909311",
-    "saved_at": "2026-11-19T07:24:21.947769+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723283+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T02:30:00+00:00",
     "home_name": "Utah Jazz",
     "away_name": "Phoenix Suns",
@@ -133,8 +133,8 @@
   },
   {
     "game_id": "401909312",
-    "saved_at": "2026-11-19T07:24:21.947775+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723288+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T03:00:00+00:00",
     "home_name": "Denver Nuggets",
     "away_name": "Houston Rockets",
@@ -145,14 +145,26 @@
   },
   {
     "game_id": "401909313",
-    "saved_at": "2026-11-19T07:24:21.947781+00:00",
-    "source_sync": "2026-11-19T07:24:21.947046+00:00",
+    "saved_at": "2026-11-19T20:35:50.723294+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
     "starts_at": "2026-11-21T03:00:00+00:00",
     "home_name": "Los Angeles Lakers",
     "away_name": "Sacramento Kings",
     "home_elo": 1578.4988453076464,
     "away_elo": 1395.135112374431,
     "home_probability": 0.8023289275844867,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910023",
+    "saved_at": "2026-11-19T20:35:50.723300+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
+    "starts_at": "2026-11-21T18:00:00+00:00",
+    "home_name": "Philadelphia 76ers",
+    "away_name": "Milwaukee Bucks",
+    "home_elo": 1580.1645537808974,
+    "away_elo": 1394.783477770068,
+    "home_probability": 0.8041642149840141,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

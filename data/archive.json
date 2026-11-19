@@ -1234,5 +1234,17 @@
     "away_elo": 1395.135112374431,
     "home_probability": 0.8023289275844867,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910023",
+    "saved_at": "2026-11-19T20:35:50.723300+00:00",
+    "source_sync": "2026-11-19T20:35:50.722543+00:00",
+    "starts_at": "2026-11-21T18:00:00+00:00",
+    "home_name": "Philadelphia 76ers",
+    "away_name": "Milwaukee Bucks",
+    "home_elo": 1580.1645537808974,
+    "away_elo": 1394.783477770068,
+    "home_probability": 0.8041642149840141,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

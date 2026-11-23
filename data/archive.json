@@ -1546,5 +1546,17 @@
     "away_elo": 1521.8950216201765,
     "home_probability": 0.6185943014644972,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909317",
+    "saved_at": "2026-11-23T23:52:54.710179+00:00",
+    "source_sync": "2026-11-23T23:52:54.709385+00:00",
+    "starts_at": "2026-11-25T22:00:00+00:00",
+    "home_name": "Philadelphia 76ers",
+    "away_name": "Miami Heat",
+    "home_elo": 1583.9450314450123,
+    "away_elo": 1538.5892492190678,
+    "home_probability": 0.6471366563427371,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

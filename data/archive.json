@@ -1510,5 +1510,41 @@
     "away_elo": 1581.793142702341,
     "home_probability": 0.33679933028903897,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909314",
+    "saved_at": "2026-11-23T07:35:55.178306+00:00",
+    "source_sync": "2026-11-23T07:35:55.177799+00:00",
+    "starts_at": "2026-11-25T00:00:00+00:00",
+    "home_name": "Orlando Magic",
+    "away_name": "Detroit Pistons",
+    "home_elo": 1490.3427737053016,
+    "away_elo": 1533.2012541017846,
+    "home_probability": 0.5246486333238328,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909315",
+    "saved_at": "2026-11-23T07:35:55.178312+00:00",
+    "source_sync": "2026-11-23T07:35:55.177799+00:00",
+    "starts_at": "2026-11-25T01:00:00+00:00",
+    "home_name": "Washington Wizards",
+    "away_name": "Boston Celtics",
+    "home_elo": 1474.609225940379,
+    "away_elo": 1532.5997993141732,
+    "home_probability": 0.5028917651287756,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401909316",
+    "saved_at": "2026-11-23T07:35:55.178317+00:00",
+    "source_sync": "2026-11-23T07:35:55.177799+00:00",
+    "starts_at": "2026-11-25T03:00:00+00:00",
+    "home_name": "Denver Nuggets",
+    "away_name": "Dallas Mavericks",
+    "home_elo": 1545.902516594023,
+    "away_elo": 1521.8950216201765,
+    "home_probability": 0.6185943014644972,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]

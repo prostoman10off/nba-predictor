@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-23T23:52:54.710226+00:00",
+  "updated_at": "2026-11-24T09:52:44.735306+00:00",
   "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0",
-  "games_count": 270,
-  "completed_count": 248,
-  "forecasts_count": 14,
-  "archive_count": 130,
+  "games_count": 281,
+  "completed_count": 258,
+  "forecasts_count": 12,
+  "archive_count": 138,
   "timezone": "Asia/Novosibirsk"
 }

@@ -1786,5 +1786,65 @@
     "away_elo": 1514.838154150357,
     "home_probability": 0.6474019966063198,
     "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910046",
+    "saved_at": "2026-11-27T08:29:13.505261+00:00",
+    "source_sync": "2026-11-27T08:29:13.504640+00:00",
+    "starts_at": "2026-11-28T22:00:00+00:00",
+    "home_name": "Washington Wizards",
+    "away_name": "Orlando Magic",
+    "home_elo": 1464.5513906378035,
+    "away_elo": 1479.849801038825,
+    "home_probability": 0.5639781209261314,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910047",
+    "saved_at": "2026-11-27T08:29:13.505268+00:00",
+    "source_sync": "2026-11-27T08:29:13.504640+00:00",
+    "starts_at": "2026-11-28T23:00:00+00:00",
+    "home_name": "Charlotte Hornets",
+    "away_name": "Brooklyn Nets",
+    "home_elo": 1421.5912605059882,
+    "away_elo": 1432.7693178087397,
+    "home_probability": 0.5698015904958835,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910048",
+    "saved_at": "2026-11-27T08:29:13.505274+00:00",
+    "source_sync": "2026-11-27T08:29:13.504640+00:00",
+    "starts_at": "2026-11-29T01:00:00+00:00",
+    "home_name": "Chicago Bulls",
+    "away_name": "Indiana Pacers",
+    "home_elo": 1463.4476503271537,
+    "away_elo": 1455.769886764405,
+    "home_probability": 0.5961826778522745,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910049",
+    "saved_at": "2026-11-27T08:29:13.505278+00:00",
+    "source_sync": "2026-11-27T08:29:13.504640+00:00",
+    "starts_at": "2026-11-29T01:00:00+00:00",
+    "home_name": "Milwaukee Bucks",
+    "away_name": "Oklahoma City Thunder",
+    "home_elo": 1386.188402804445,
+    "away_elo": 1500.3362816549975,
+    "home_probability": 0.422699782292838,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
+  },
+  {
+    "game_id": "401910050",
+    "saved_at": "2026-11-27T08:29:13.505283+00:00",
+    "source_sync": "2026-11-27T08:29:13.504640+00:00",
+    "starts_at": "2026-11-29T01:30:00+00:00",
+    "home_name": "Houston Rockets",
+    "away_name": "Philadelphia 76ers",
+    "home_elo": 1565.5170662908683,
+    "away_elo": 1578.390593942488,
+    "home_probability": 0.5674075534230794,
+    "model_version": "elo-v1;start=2026-10-20;initial=1500.0;k=20.0;home=60.0"
   }
 ]
